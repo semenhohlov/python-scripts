@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2022-02-12 14:03">
+<shop>
+<categories>
+    <category id="105571315" parentId="105571256">Пакети паперові, коробки</category>
+    <category id="105571314" parentId="105571256">Пакети паперові, коробки</category>
+    <category id="105571313" parentId="105571256">Новогодние украшения</category>
+    <category id="105571312" parentId="105571256">Новогодние украшения</category>
+    <category id="105571311" parentId="105571256">Конверты,открытки</category>
+    <category id="105571310" parentId="105571256">Все для праздника</category>
+    <category id="105571309" parentId="105571256">Все для праздника</category>
+    <category id="105571308" parentId="105571255">Тетради для нот</category>
+    <category id="105571307" parentId="105571255">Тетради в косую линию</category>
+    <category id="105571306" parentId="105571255">Предметні зошити</category>
+    <category id="105571305" parentId="105571255">Зошити для нот</category>
+    <category id="105571304" parentId="105571254">Школьные дневники, словари</category>
+    <category id="105571303" parentId="105571254">Школьные дневники, словари</category>
+    <category id="105571302" parentId="105571254">Цветная бумага и картон</category>
+    <category id="105571301" parentId="105571254">Цветная бумага и картон</category>
+    <category id="105571300" parentId="105571254">Папка для креслення</category>
+    <category id="105571299" parentId="105571254">Папка для креслення</category>
+    <category id="105571298" parentId="105571254">Офисная бумага</category>
+    <category id="105571297" parentId="105571254">Бумага для творчества</category>
+    <category id="105571296" parentId="105571254">Бумага для творчества</category>
+    <category id="105571295" parentId="105571254">Альбомы для рисования</category>
+    <category id="105571294" parentId="105571254">Альбоми для малювання</category>
+    <category id="105571293" parentId="105571253">Циркули, готовальни, подставки для книг</category>
+    <category id="105571292" parentId="105571253">Циркули, готовальни, подставки для книг</category>
+    <category id="105571291" parentId="105571253">Учебные принадлежности и наборы</category>
+    <category id="105571290" parentId="105571253">Учебные принадлежности и наборы</category>
+    <category id="105571289" parentId="105571253">Рюкзаки и школьные сумки</category>
+    <category id="105571288" parentId="105571253">Рюкзаки и школьные сумки</category>
+    <category id="105571287" parentId="105571253">Пластилин и принадлежности</category>
+    <category id="105571286" parentId="105571253">Пластилин и принадлежности</category>
+    <category id="105571285" parentId="105571253">Пеналы,кошельки,ланч боксы,сумки для обуви</category>
+    <category id="105571284" parentId="105571253">Пенали,кошельки,ланч боксы,сумки для обуви</category>
+    <category id="105571283" parentId="105571253">Папки для зошитів, праці, текі та конверти</category>
+    <category id="105571282" parentId="105571253">Папки для зошитів, праці, текі та конверти</category>
+    <category id="105571281" parentId="105571253">Обложки, пленка для тетрадей и учебников</category>
+    <category id="105571280" parentId="105571252">Файлы,папки з файлами</category>
+    <category id="105571279" parentId="105571252">Папки-скоросшиватели</category>
+    <category id="105571278" parentId="105571252">Папки-реестраторы</category>
+    <category id="105571277" parentId="105571252">Папки на резинках и на молнии</category>
+    <category id="105571276" parentId="105571252">Другие папки и портфели</category>
+    <category id="105571275" parentId="105571251">Точилки, ластики, ножницы, канцелярськие ножи</category>
+    <category id="105571274" parentId="105571251">Точилки, ластик, ножницы, канцелярские ножи</category>
+    <category id="105571273" parentId="105571251">Степлер, діркопробивач</category>
+    <category id="105571272" parentId="105571251">Настольные наборы, лотки, подставки, корзинки</category>
+    <category id="105571271" parentId="105571251">Лнейки, угольники и транспортиры</category>
+    <category id="105571270" parentId="105571251">Линейки, угольники та транспортиры</category>
+    <category id="105571269" parentId="105571251">Коректоры, клей, скотч</category>
+    <category id="105571268" parentId="105571251">Коректоры, клей, скотч</category>
+    <category id="105571267" parentId="105571251">Калькулятори</category>
+    <category id="105571266" parentId="105571251">Биндеры, магниты, кнопки, скрепки</category>
+    <category id="105571261">Хозгруппа</category>
+    <category id="105571260">Детская литература</category>
+    <category id="105571258">Летний ассортимент</category>
+    <category id="105571257">Спорттовары</category>
+    <category id="105571256">Все для праздника</category>
+    <category id="105571255" parentId="104143567">Школьные тетради</category>
+    <category id="105571254" parentId="104143567">Бумага и бумажные изделия</category>
+    <category id="105571253" parentId="104143567">Школьные принадлежности</category>
+    <category id="105571252" parentId="104143567">Деловодство</category>
+    <category id="105571251" parentId="104143567">Офисные мелочи</category>
+    <category id="105571250" parentId="103587234">Зимний отдых</category>
+    <category id="105571249" parentId="103587234">Зимний отдых</category>
+    <category id="105571248" parentId="103587230">Электромобили</category>
+    <category id="105571247" parentId="103587230">Ходунки, кровати, стулья д/кормления</category>
+    <category id="105571246" parentId="103587230">Педальные машины</category>
+    <category id="105571245" parentId="103587230">Парты для детей</category>
+    <category id="105571244" parentId="103587230">Парты для детей</category>
+    <category id="105571236" parentId="103587230">Ванночки, горшки, стулья, табуреты</category>
+    <category id="105571235" parentId="103587230">Батуты</category>
+    <category id="105571234" parentId="104143568">Мел белый и цветной</category>
+    <category id="105571233" parentId="104143568">Мел белый и цветной</category>
+    <category id="105571232">Элементы питания</category>
+    <category id="105571231">Батарейки</category>
+    <category id="105565401" parentId="105565361">Товары для уборки</category>
+    <category id="105565400" parentId="105565361">Товары для ванной</category>
+    <category id="105565399" parentId="105565361">Полотенца</category>
+    <category id="105565398" parentId="105565361">Коврики</category>
+    <category id="105565397" parentId="105565361">Декор интерьер</category>
+    <category id="105565396" parentId="105565358">Чашки стаканы</category>
+    <category id="105565395" parentId="105565358">Чайники заварники</category>
+    <category id="105565394" parentId="105565358">Форма для выпечки</category>
+    <category id="105565393" parentId="105565358">Стекляная посуда</category>
+    <category id="105565392" parentId="105565358">Стеклокерамика</category>
+    <category id="105565391" parentId="105565358">Пластиковоя посуда</category>
+    <category id="105565390" parentId="105565358">Керамическая посуда</category>
+    <category id="105565389" parentId="105565357">Клеенка ПВХ в рулонах</category>
+    <category id="105565388" parentId="105565355">Спецовницы</category>
+    <category id="105565387" parentId="105565355">Кухонные принадлежности</category>
+    <category id="105565386" parentId="105565355">Кондитерский инвентарь</category>
+    <category id="105565385" parentId="105565355">Доски разделочные</category>
+    <category id="105565380" parentId="105565349">Сосны</category>
+    <category id="105565379" parentId="105565349">Елки</category>
+    <category id="105565378" parentId="105565349">Декор новогодний</category>
+    <category id="105565372" parentId="105565324">Тетради 96 листов</category>
+    <category id="105565371" parentId="105565324">Тетради 60 листов</category>
+    <category id="105565370" parentId="105565324">Тетради 48 листов</category>
+    <category id="105565369" parentId="105565324">Тетради 36 листов</category>
+    <category id="105565368" parentId="105565324">Тетради 24 листа</category>
+    <category id="105565367" parentId="105565324">Тетради 18 листов</category>
+    <category id="105565366" parentId="105565324">Тетради 12 листов</category>
+    <category id="105565365" parentId="105565324">Прочие</category>
+    <category id="105565362" parentId="105565286">Электротовары</category>
+    <category id="105565361" parentId="105565286">Товары для дома</category>
+    <category id="105565360" parentId="105565286">Термосы</category>
+    <category id="105565359" parentId="105565286">Сумка-холодильник</category>
+    <category id="105565358" parentId="105565286">Посуда</category>
+    <category id="105565357" parentId="105565286">Клеенка</category>
+    <category id="105565356" parentId="105565286">Бутылки-поилки</category>
+    <category id="105565355" parentId="105565286">Аксессуары кухонные</category>
+    <category id="105565352" parentId="105565284">Товар для оформления праздника</category>
+    <category id="105565351" parentId="105565284">Пасха</category>
+    <category id="105565350" parentId="105565284">Пакеты, упаковочная бумага, банты</category>
+    <category id="105565349" parentId="105565284">Новогодние игрушки, ёлки, гирлянды</category>
+    <category id="105565348" parentId="105565284">Карнавальные костюмы, маски</category>
+    <category id="105565347" parentId="105565284">Воздушные шары</category>
+    <category id="105565346" parentId="105565283">Песочные наборы, сачки</category>
+    <category id="105565345" parentId="105565283">Мыльные пузыри</category>
+    <category id="105565344" parentId="105565283">Катера, лодки игрушечные</category>
+    <category id="105565343" parentId="105565283">Воздушные змеи</category>
+    <category id="105565342" parentId="105565283">Водяное оружие</category>
+    <category id="105565341" parentId="105565283">Водоплавающие игрушки</category>
+    <category id="105565340" parentId="105565283">Ветрячки</category>
+    <category id="105565339" parentId="105565283">Вееры,вентиляторы</category>
+    <category id="105565338" parentId="105565281">Тренажеры</category>
+    <category id="105565337" parentId="105565281">Товары для бокса</category>
+    <category id="105565336" parentId="105565281">Теннис</category>
+    <category id="105565335" parentId="105565281">Спортинвентарь</category>
+    <category id="105565334" parentId="105565281">Скакалки,резинки</category>
+    <category id="105565326" parentId="105565280">Спортивные сумки, рюкзаки</category>
+    <category id="105565325" parentId="105565278">Фотоальбомы, фоторамки</category>
+    <category id="105565324" parentId="105565278">Тетради</category>
+    <category id="105565323" parentId="105565278">Ручки</category>
+    <category id="105565322" parentId="105565278">Пенал</category>
+    <category id="105565321" parentId="105565278">Папки, сегрегаторы</category>
+    <category id="105565320" parentId="105565278">Офисная канцелярия</category>
+    <category id="105565319" parentId="105565278">Открытки</category>
+    <category id="105565318" parentId="105565278">Обучающий материал</category>
+    <category id="105565311" parentId="105565278">Ластики, точилки</category>
+    <category id="105565310" parentId="105565278">Краски, кисточки, палитры</category>
+    <category id="105565309" parentId="105565278">Клей</category>
+    <category id="105565308" parentId="105565278">Картон, бумага</category>
+    <category id="105565307" parentId="105565278">Грамоты, подяки, дипломы</category>
+    <category id="105565306" parentId="105565278">Блокноты, закладки</category>
+    <category id="105565305" parentId="105565278">Альбомы для рисования</category>
+    <category id="105565304" parentId="105565274">Энциклопедии детские</category>
+    <category id="105565303" parentId="105565274">Школьные словари  и пособия</category>
+    <category id="105565302" parentId="105565274">Художественная литература детская</category>
+    <category id="105565301" parentId="105565274">Сказки</category>
+    <category id="105565300" parentId="105565274">Раскраски</category>
+    <category id="105565299" parentId="105565274">Прописи</category>
+    <category id="105565298" parentId="105565274">Книги-тесты</category>
+    <category id="105565297" parentId="105565274">Книги-пазлы</category>
+    <category id="105565296" parentId="105565274">Книги с наклейками</category>
+    <category id="105565295" parentId="105565274">Книги развивающие</category>
+    <category id="105565294" parentId="105565274">Книги по арифметике</category>
+    <category id="105565293" parentId="105565274">Книги Новый год</category>
+    <category id="105565292" parentId="105565274">Книги инностранные языки</category>
+    <category id="105565291" parentId="105565274">Книги для малышей 1+</category>
+    <category id="105565290" parentId="105565274">Азбука</category>
+    <category id="105565286">Хозтовары</category>
+    <category id="105565284">Товары для праздников</category>
+    <category id="105565283">Игрушки летнего сезона</category>
+    <category id="105565282">СРЕДСТВА ИНДИВИДУАЛЬНОЙ ЗАЩИТЫ</category>
+    <category id="105565281">Спортивные товары</category>
+    <category id="105565280">Рюкзаки, детские сумки, зонты</category>
+    <category id="105565279">Продукты питания</category>
+    <category id="105565278">Канцтовары</category>
+    <category id="105565276" parentId="103199650">Горшки</category>
+    <category id="105565275" parentId="103199650">Ванночки</category>
+    <category id="105565274">Детские книги</category>
+    <category id="105565273">Бытовая химия</category>
+    <category id="105565272">БРЕНДЫ</category>
+    <category id="105565271">Батарейки</category>
+    <category id="104143567">Канцтовары 2021</category>
+    <category id="104143568" parentId="104143567">Письменные принадлежности</category>
+    <category id="104143569" parentId="104143568">Фломастери</category>
+    <category id="104143570" parentId="104143568">Фломастеры</category>
+    <category id="101470452">Аксессуары для малышей и мам</category>
+    <category id="103634433">Портфели, сумки для обуви</category>
+    <category id="103634431" parentId="103199650">Обучающие карточки</category>
+    <category id="104164582" parentId="102873435">Зонтики детские, дождевики</category>
+    <category id="104360483" parentId="102873448">Картины 4050</category>
+    <category id="103937248" parentId="102873435">Силиконовые антишнурки</category>
+    <category id="105650272" parentId="105565361">Хозяйственные товары</category>
+    <category id="105650271" parentId="105565361">Органайзеры</category>
+    <category id="105650270" parentId="105565358">Детская посуда</category>
+    <category id="105650269" parentId="105565286">Изолента, скотч</category>
+    <category id="105614808">Товары для летнего отдыха</category>
+    <category id="105571355" parentId="105571261">Хозтовары</category>
+    <category id="105571354" parentId="105571261">Хозтовары</category>
+    <category id="105571353" parentId="105571260">Тетрада</category>
+    <category id="105571352" parentId="105571260">Талант</category>
+    <category id="105571351" parentId="105571260">Ранок Новый Год</category>
+    <category id="105571350" parentId="105571260">Ранок</category>
+    <category id="105571349" parentId="105571260">Мандарин</category>
+    <category id="105571348" parentId="105571260">Колибри</category>
+    <category id="105571347" parentId="105571260">Книжковий Хмарочос</category>
+    <category id="105571346" parentId="105571260">Апельсин (раскраски)</category>
+    <category id="105571345" parentId="105571259">Велобеги</category>
+    <category id="105571344" parentId="105571259">29 дюймов</category>
+    <category id="105571343" parentId="105571259">27,5 дюймов</category>
+    <category id="105571342" parentId="105571259">26 дюймов</category>
+    <category id="105571341" parentId="105571259">24 дюйма</category>
+    <category id="105571340" parentId="105571259">20 дюймов</category>
+    <category id="105571339" parentId="105571259">18 дюймов</category>
+    <category id="105571338" parentId="105571259">16 дюймов</category>
+    <category id="105565317" parentId="105565278">Ножницы, ножи канцелярские</category>
+    <category id="105565316" parentId="105565278">Наклейки</category>
+    <category id="105565315" parentId="105565278">Наборы для рисования</category>
+    <category id="105565314" parentId="105565278">Мелки</category>
+    <category id="105565313" parentId="105565278">Маркеры</category>
+    <category id="105565312" parentId="105565278">Линейки</category>
+    <category id="102300632">Детская косметика и бижутерия</category>
+</categories>
+</shop>
+</yml_catalog>
